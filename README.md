@@ -2,15 +2,15 @@
 
 ### Introdução
 
-O programa faz a leitura das variáveis **a, b e n** de uma congruência linear:
+O programa faz a leitura das variáveis ``**a, b e n**`` de uma congruência linear:
 
 $$ ax \equiv b \pmod{n} $$
 
-Logo em seguida acha o inverso de **a** e retorna o valor de **x** que satisfaz a congruência linear
+Logo em seguida acha o inverso de ``**a**`` e retorna o valor de ``**x**`` que satisfaz a congruência linear
 
 ### Compilação
 
-Para compilar o programa abra o terminal na mesma pasta que o arquivo ExtendedEuclidean.java e escreva o seguinte comando:
+Para compilar o programa abra o terminal na mesma pasta que o arquivo ``ExtendedEuclidean.java`` e escreva o seguinte comando:
 
 > ``javac ExtendedEuclidean.java``  
 
