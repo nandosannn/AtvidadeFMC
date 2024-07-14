@@ -1,18 +1,19 @@
-## Getting Started
+## Atividade de Fundamentos Matemáticos da Computação
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Introdução
 
-## Folder Structure
+O programa faz a leitura das variáveis *a, b e n* de uma congruência linear:
 
-The workspace contains two folders by default, where:
+\[ ax \equiv b \pmod{n} \]
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Logo em seguida acha o inverso de *a* e retorna o valor de x que satisfaz a congruência linear
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Compilação
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Para compilar o programa abra o terminal na mesma pasta que o arquivo ExtendedEuclidean.java e escreva o seguinte comando:
 
-## Dependency Management
+> javac ExtendedEuclidean.java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Em seguida escreva o seguinte comando para compilar o programa:
+
+> java ExtendedEuclidean.java
