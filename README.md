@@ -14,6 +14,6 @@ Para compilar o programa abra o terminal na mesma pasta que o arquivo ``Extended
 
 > ``javac ExtendedEuclidean.java``  
 
-Em seguida escreva o seguinte comando para compilar o programa:
+Em seguida escreva o seguinte comando para executar o programa:
 
 > ``java ExtendedEuclidean.java``
